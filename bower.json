@@ -2,7 +2,9 @@
   "name": "fe-lat-global",
   "version": "0.0.1",
   "ignore": [
-    "README.md",
-    "bower.json"
+    "**",
+    "!styles",
+    "!scripts",
+    "!templates"
   ]
 }
