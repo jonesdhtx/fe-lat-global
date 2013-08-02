@@ -1,10 +1,8 @@
 {
   "name": "fe-lat-global",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "ignore": [
     "**",
-    "!styles",
-    "!scripts",
-    "!templates"
+    "!dist"
   ]
 }
